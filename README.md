@@ -6,3 +6,4 @@ A list of design systems used by leading brands.
 | ------------------------------------------------| ------- |
 | [Nachos](https://design.trello.com/)            | Trello  |
 | [Primer](https://primer.github.io/)             | Github  |
+| [Polaris](https://polaris.shopify.com/)         | Shopify |
